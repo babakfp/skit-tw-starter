@@ -6,7 +6,6 @@ const config = {
     target: '#svelte',
     adapter: adapter(),
   },
-
   preprocess: [
     preprocess({
       postcss: true,
