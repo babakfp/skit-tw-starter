@@ -1,14 +1,14 @@
 {
-  "name": "skit-movies",
+  "name": "skit-starter",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
-    "package": "svelte-kit package",
-    "preview": "svelte-kit preview"
+    "preview": "svelte-kit preview",
+    "package": "svelte-kit package"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-vercel": "^1.0.0-next.0",
     "@sveltejs/kit": "next",
     "svelte": "^3.44.0"
   },
