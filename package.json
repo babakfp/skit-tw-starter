@@ -1,5 +1,5 @@
 {
-  "name": "skit-starter",
+  "name": "skit-tw-starter",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
